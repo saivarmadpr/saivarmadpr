@@ -86,6 +86,9 @@ Security engineer and **AI security researcher**. I design and build **enterpris
 <!-- ===================== FEATURED ===================== -->
 ## 🚀 Featured projects
 
+### 🤖 [wb-red-team](https://github.com/votal-ai-hq/wb-red-team) &nbsp;·&nbsp; <sub>`votal-ai-hq`</sub>
+Whitebox & blackbox **red-teaming framework for LLMs & agentic AI**. Analyzes app source code to map tools, roles, and guardrails, then auto-generates adaptive multi-turn attack chains across categories to surface real vulnerabilities.
+
 <table>
 <tr>
 <td width="50%" valign="top">
