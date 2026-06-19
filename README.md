@@ -1,12 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Sai%20Varma%20Dantuluri&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=I%20build%20enterprise-grade%20security%20systems&descSize=16&descAlignY=58" width="100%" alt="Sai Varma Dantuluri"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/saivarmadpr">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=AI+Security+Researcher+%7C+Security+Engineer;I+build+enterprise-grade+security+systems;Guardrails+%7C+Red-Teaming+%7C+SAST+%7C+Cloud;I+break+AI+systems+before+attackers+do" alt="Typing SVG"/>
-  </a>
+  <img src="assets/banner.svg" width="100%" alt="Sai Varma Dantuluri — AI Red Team Engineer"/>
 </div>
 
 <div align="center">
@@ -14,7 +8,7 @@
   <a href="https://github.com/saivarmadpr?tab=followers"><img src="https://img.shields.io/github/followers/saivarmadpr?label=Follow&style=social" alt="followers"/></a>
   <a href="https://www.linkedin.com/in/sai-varma-dantuluri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://x.com/saivarmadpr"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x&logoColor=white" alt="x"/></a>
-  <a href="https://saivarmadpr.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-8e2de2?style=flat&logo=githubpages&logoColor=white" alt="portfolio"/></a>
+  <a href="https://saivarma.com/"><img src="https://img.shields.io/badge/Portfolio-saivarma.com-8e2de2?style=flat&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 </div>
 
 <!-- ===================== ABOUT ===================== -->
@@ -155,7 +149,7 @@ Writeups from Yeshiva University's CTF — **web exploitation**, **cryptography*
   <a href="https://www.linkedin.com/in/sai-varma-dantuluri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://x.com/saivarmadpr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
   <a href="mailto:saivarmadpr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://saivarmadpr.github.io"><img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/></a>
+  <a href="https://saivarma.com/"><img src="https://img.shields.io/badge/Portfolio-8e2de2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 </div>
 
 <div align="center">
