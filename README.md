@@ -135,24 +135,11 @@ Writeups from Yeshiva University's CTF — **web exploitation**, **cryptography*
 
 <img width="92%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 
-<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saivarmadpr&theme=tokyonight" alt="profile summary"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saivarmadpr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=saivarmadpr&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=saivarmadpr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged" alt="github stats"/>
-<img height="185" src="https://streak-stats.demolab.com/?user=saivarmadpr&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img width="92%" src="github-metrics.svg" alt="metrics — includes private contributions"/>
 
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saivarmadpr&theme=tokyonight" alt="repos per language"/>
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saivarmadpr&theme=tokyonight" alt="most-used language by commits"/>
-
-<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saivarmadpr&theme=tokyonight&utcOffset=-5" alt="productive time"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saivarmadpr&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph"/>
-
-</div>
-
-### 🛰️ Deep metrics <sub>(includes private contributions)</sub>
-
-<div align="center">
-  <img width="92%" src="github-metrics.svg" alt="detailed metrics including private repos"/>
 </div>
 
 ## 🐍 Contribution graph
