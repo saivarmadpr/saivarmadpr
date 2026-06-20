@@ -123,24 +123,16 @@ Writeups from Yeshiva University's CTF — **web exploitation**, **cryptography*
 - 🎓 **MS in Cybersecurity** — Yeshiva University
 
 <!-- ===================== STATS ===================== -->
-## 📊 GitHub analytics
+## 📊 GitHub stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saivarmadpr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=saivarmadpr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<img width="92%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saivarmadpr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=saivarmadpr&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<img width="92%" src="github-metrics.svg" alt="metrics — includes private contributions"/>
-
-</div>
-
-## 🐍 Contribution graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saivarmadpr/saivarmadpr/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarmadpr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's connect
